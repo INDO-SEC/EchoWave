@@ -42,6 +42,10 @@ npm start
 
 
 
+
+
+
+
 ```javascript
 let statusText = '';
             switch (status) {
@@ -78,7 +82,7 @@ let statusText = '';
 
 ## Kontak
 
- - [@handle-twitter-anda](https://twitter.com/handle-twitter-ANONSEC-ID)
+ - [@WA ME](https://wa.me/+6289691610704)
  - crackermuda@gmail.com
 
 Link Proyek: [https://github.com/username-anda/nama-repo-anda](https://github.com/INDO-SEC/EchoWave)
