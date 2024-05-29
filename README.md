@@ -78,7 +78,8 @@ let statusText = '';
 
 ## Kontak
 
- - [@handle-twitter-anda](https://twitter.com/handle-twitter-ANONSEC-ID) - -@crackermuda@gmail.com
+ - [@handle-twitter-anda](https://twitter.com/handle-twitter-ANONSEC-ID)
+ - @crackermuda@gmail.com
 
 Link Proyek: [https://github.com/username-anda/nama-repo-anda](https://github.com/INDO-SEC/EchoWave)
 
