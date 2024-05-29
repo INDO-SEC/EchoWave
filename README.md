@@ -40,7 +40,7 @@
 npm start
 ```
 
-Berikut adalah contoh cara menggunakan proyek dalam konteks tertentu:
+
 
 ```javascript
 let statusText = '';
@@ -78,7 +78,7 @@ let statusText = '';
 
 ## Kontak
 
-Nama Anda - [@handle-twitter-anda](https://twitter.com/handle-twitter-ANONSEC-ID) - email-anda@crackermuda@gmail.com
+ - [@handle-twitter-anda](https://twitter.com/handle-twitter-ANONSEC-ID) - email-@crackermuda@gmail.com
 
 Link Proyek: [https://github.com/username-anda/nama-repo-anda](https://github.com/INDO-SEC/EchoWave)
 
