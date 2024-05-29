@@ -26,7 +26,7 @@
 
 2. **Masuk ke direktori proyek:**
    ```sh
-   cd EchoWave
+   cd LZN
    ```
 
 3. **Instal dependensi:**
