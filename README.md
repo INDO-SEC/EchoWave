@@ -6,7 +6,6 @@
 
 - [Fitur](#fitur)
 - [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
 - [Kontak](#kontak)
 
 ## Fitur
