@@ -33,12 +33,11 @@
    ```sh
    npm install
    ```
+4. **Menjalankan Script:**
 
-
-
-```sh
-npm start
-```
+   ```sh
+   node run.js
+   ```
 
 
 ---
