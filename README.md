@@ -82,7 +82,7 @@ let statusText = '';
 
 ## Kontak
 
- - [WA ME](https://wa.me/+6289691610704)
+ - [WHATSAPP](https://wa.me/+6289691610704)
  - crackermuda@gmail.com
 
 [Github](https://github.com/INDO-SEC)
